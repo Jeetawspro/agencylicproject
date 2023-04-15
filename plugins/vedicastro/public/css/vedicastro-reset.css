@@ -1,0 +1,364 @@
+/***************|| Font Size ||***************/
+.fs-8{
+     font-size:8px;
+}
+ .fs-9{
+     font-size:9px;
+}
+ .fs-10{
+     font-size:10px;
+}
+ .fs-11{
+     font-size:11px;
+}
+ .fs-12{
+     font-size:12px;
+}
+ .fs-13{
+     font-size:13px;
+}
+ .fs-14{
+     font-size:14px;
+}
+ .fs-15{
+     font-size:15px;
+}
+ .fs-16{
+     font-size:16px;
+}
+ .fs-17{
+     font-size:17px;
+}
+ .fs-18{
+     font-size:18px;
+}
+ .fs-19{
+     font-size:19px;
+}
+ .fs-20{
+     font-size:20px;
+}
+ .fs-21{
+     font-size:21px;
+}
+ .fs-22{
+     font-size:22px;
+}
+ .fs-23{
+     font-size:23px;
+}
+ .fs-24{
+     font-size:24px;
+}
+ .fs-25{
+     font-size:25px;
+}
+ .fs-26{
+     font-size:26px;
+}
+ .fs-27{
+     font-size:27px;
+}
+ .fs-28{
+     font-size:29px;
+}
+ .fs-29{
+     font-size:29px;
+}
+ .FS-30{
+     font-size:30px;
+}
+ .fs-30{
+     font-size:30px;
+}
+ .fs-31{
+     font-size:31px;
+}
+ .fs-32{
+     font-size:32px;
+}
+ .fs-33{
+     font-size:33px;
+}
+ .fs-34{
+     font-size:34px;
+}
+ .fs-35{
+     font-size:35px;
+}
+ .fs-36{
+     font-size:36px;
+}
+ .fs-37{
+     font-size:37px;
+}
+ .fs-38{
+     font-size:38px;
+}
+ .fs-39{
+     font-size:39px;
+}
+ .fs-40{
+     font-size:40px;
+}
+ .fs-41{
+     font-size:41px;
+}
+ .fs-42{
+     font-size:42px;
+}
+ .fs-43{
+     font-size:43px;
+}
+ .fs-44{
+     font-size:44px;
+}
+ .fs-45{
+     font-size:45px;
+}
+ .fs-46{
+     font-size:46px;
+}
+ .fs-47{
+     font-size:47px;
+}
+ .fs-48{
+     font-size:48px;
+}
+ .fs-49{
+     font-size:49px;
+}
+ .fs-50{
+     font-size:50px;
+}
+ .fs-52{
+     font-size:52px;
+}
+ .fs-55{
+     font-size:55px;
+}
+ .fs-56{
+     font-size:56px;
+}
+ .fs-58{
+     font-size:58px;
+}
+ .fs-60{
+     font-size:60px;
+}
+ .fs-75{
+     font-size:75px;
+}
+/***************|| Font Size ||***************/
+/***************|| Line Height ||***************/
+ .lh-12{
+     line-height:12px;
+}
+ .lh-14{
+     line-height:14px;
+}
+ .lh-16{
+     line-height:16px;
+}
+ .lh-18{
+     line-height:18px;
+}
+ .lh-20{
+     line-height:20px;
+}
+ .lh-22{
+     line-height:22px;
+}
+ .lh-24{
+     line-height:24px;
+}
+ .lh-25{
+     line-height:25px;
+}
+ .lh-26{
+     line-height:26px;
+}
+ .lh-28{
+     line-height:28px;
+}
+ .lh-27{
+     line-height:27px;
+}
+ .lh-29{
+     line-height:29px;
+}
+ .lh-30{
+     line-height:30px;
+}
+ .lh-32{
+     line-height:32px;
+}
+ .lh-34{
+     line-height:34px;
+}
+ .lh-36{
+     line-height:36px;
+}
+ .lh-38{
+     line-height:38px;
+}
+ .lh-40{
+     line-height:40px;
+}
+ .lh-42{
+     line-height:42px;
+}
+/***************|| Line Height ||***************/
+/***************|| Font Weight ||***************/
+ .fw-100{
+     font-weight:100;
+}
+ .fw-200{
+     font-weight:200;
+}
+ .fw-300{
+     font-weight:300;
+}
+ .fw-400{
+     font-weight:400;
+}
+ .fw-500{
+     font-weight:500;
+}
+ .fw-600{
+     font-weight:600;
+}
+ .fw-700{
+     font-weight:700;
+}
+ .fw-800{
+     font-weight:800;
+}
+ .fw-900{
+     font-weight:900;
+}
+/***************|| Font Weight ||***************/
+/***************|| Text Color ||***************/
+.clr-black{
+     color: #273141;
+}
+.clr-black1{
+     color: #263C65;
+}
+.clr-blue{
+     color:#2E3B5C;
+}
+.clr-gray{
+     color:#6C757D;
+}
+.clr-pink{
+     color:#D590FF;
+}
+.clr-green{
+     color: #77D18B;
+}
+.clr-orange{
+     color:#FFA490;
+}
+.clr-orange1{
+     color:#FFAA04;
+}
+.clr-sky-blue{
+     color: #03D2FF;
+}
+.clr-blue1{
+     color: #90A8FF;
+}
+.clr-pink1{
+     color: #FC54FF;
+}
+.clr-green1{
+color: #57E34B;
+}
+.clr-pink3{
+     color: #D590FF;
+}
+.text-black{
+     color: #000;
+}
+.clr-dark-green{
+     color: #0C5460;
+}
+.clr-light-blue{
+     color: #007BFF;
+}
+/***************|| Text Color ||***************/
+/***************|| BackGround Color ||***************/
+.bg-blue{
+     background-color:#007BFF;
+}
+.bg-gray{
+     background-color:#6C757D;
+}
+.bg-sky-blue{
+background: rgba(0, 123, 255, 0.08);
+border-radius: 8px;
+}
+.bg-light-green{
+background-color: #D1ECF1;
+}
+.bg-white{
+     background-color: #fff;
+}
+
+/***************|| BackGround Color ||***************/
+/***************|| border Css ||***************/
+.bdr-gray{
+     border: 1px solid #B9C8CE;
+}
+.bdr-sky-blue{
+    border: 1px solid rgba(0, 123, 255, 0.3);
+}
+.bdr-black{
+     border: 1px solid #000;
+}
+.bdr_bottom-black{
+     border-bottom: 1px solid #000;
+}
+/***************|| border Css ||***************/
+.text_center{
+     text-align: center;
+}
+.visibility_hidden{
+     visibility: hidden;
+}
+.position_relative{
+     position: relative;
+}
+.d_flex{
+     display: flex;
+}
+/***************|| Extra Css ||***************/
+.p_0{
+padding: 0px;
+}
+.m_0{
+margin: 0px;
+}
+.p-15{
+     padding:15px;
+}
+.prl-15{
+     padding: 0px 15px;
+}
+.prl-40{
+     padding: 0px 40px;
+}
+.ptb-30{
+     padding: 30px 0px;
+}
+.mlr-15{
+     margin: 0px 15px;
+}
+.ptlr_15 {
+    padding: 15px 0px 15px;
+}
+.p_15 {
+    padding: 15px;
+}
+/***************|| Extra Css ||***************/

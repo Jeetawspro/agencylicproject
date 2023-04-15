@@ -1,0 +1,32 @@
+#bcc{
+  text-align: center;
+}
+
+#bcc-panel{
+  display: inline-block;
+}
+
+.bcc-heading {
+   font-style: inherit;
+   margin-bottom: 10px;
+}
+
+.bcc-star1 {
+   margin-bottom: 10px;
+}
+
+.bcc-star2 {
+   margin-bottom: 10px;
+}
+
+.bcc-starMsg{
+   text-align: left;	
+   padding-top:10px;
+}
+
+span.bcc-center{
+  text-align: center; 
+  display:block;
+  width: 100%; 
+  font-weight:bold;
+}

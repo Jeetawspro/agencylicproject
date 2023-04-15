@@ -1,0 +1,8 @@
+Note by Anand Ram 8Apr2022. 3 fixes have gone in
+1. Line 86 fix where Nimbbl_status was not being populated at the beginning of the order
+2. Success message being over-written.
+3. Additional fix for 2 against the constructor.
+
+Note by Rakshitha R 12Apr2022. 1 fix have gone in
+1. Woocommerce order status was taken as processing and not success for successful transactions earlier. Now fix is gone in for both processing and success status.
+2. If the same order fails after the successful transaction, status remains as success only.

@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ #_bt_shipping_tracking_from{display: -ms-flexbox;display: flex;-ms-flex-flow: row wrap;flex-flow: row wrap;-ms-flex-align: center;align-items: center;margin-bottom: 10px;}
+ #_bt_shipping_tracking_from input {display: inline-block;width: auto;margin-right: 0.5rem !important;vertical-align: middle;}
+ #_bt_shipping_tracking_from input[type="submit"]{display: inline-block;font-weight: 400;color: #212529;background-color: #e2e6ea;text-align: center;vertical-align: middle;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;border: 1px solid #dae0e5;padding: 0.375rem 0.75rem;font-size: 1rem;line-height: 1.5;border-radius: 0.25rem;transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;}
+ #_bt_shipping_tracking_response {color: #212529;vertical-align: top;border-color: #dee2e6;border: 1px solid #dee2e6;border-collapse: collapse;}
+ #_bt_shipping_tracking_response thead th {border-bottom-width: 2px;vertical-align: bottom;border: 1px solid #dee2e6;border-bottom: 2px solid #dee2e6;}
+ #_bt_shipping_tracking_response td {padding: 0.75rem;vertical-align: top;border: 1px solid #dee2e6 !important;}
+ #_bt_shipping_tracking_public .table-responsive {display: block;width: 100%;overflow-x: auto;-webkit-overflow-scrolling: touch;}

@@ -1,0 +1,439 @@
+.caouter {
+    border: 1px solid #333;
+    display: table;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    background: #fff;
+}
+
+.ca-ampm {
+    width: 35px !important;
+}
+
+.caouter select {
+    height: auto;
+    padding: 0px;
+}
+
+.caouter .gendertab {
+    width: 200px;
+}
+
+.astrowidget-wrapper {
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+
+div.horo-widget-error {
+    color: #ed7469;
+    font-weight: bold;
+    display: block;
+    padding: 10px;
+    text-align: center;
+    border: solid 1px #ed7469;
+}
+
+.astrowidget-wrapper .heading {
+    width: 100%;
+    float: left;
+    background: #b32a2a;
+    height: auto;
+    padding: 0px;
+}
+
+.horowid_title {
+    font-size: 0.9rem;
+    padding: 5px 0px 5px 0px;
+}
+
+.astrowidget-col {
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    padding: 2% 2% 0% 2%;
+}
+
+.astrowidget-wrapper .w18 {
+    width: 18%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.astrowidget-wrapper .w25 {
+    width: 25%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.astrowidget-wrapper .w21 {
+    width: 25%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.astrowidget-wrapper .w35 {
+    width: 30%;
+    float: left;
+    padding: 0 2%;
+    box-sizing: border-box;
+}
+
+.astrowidget-wrapper .w50 {
+    width: 50%;
+    float: left;
+    padding: 0 2%;
+    box-sizing: border-box;
+}
+
+.astrowidget-wrapper input[type="text"] {
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    box-sizing: border-box;
+    width: 100%;
+    height: 33px;
+    border: 1px solid #E5E5E5;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+    color: #333;
+    font-size: 13px;
+    line-height: 1.5;
+    padding: 5px;
+    box-shadow: inset 0 0 0 1px #b9b9b9;
+}
+
+.astrowidget-wrapper input[type="radio"] {
+    width: 15px;
+    height: 15px;
+}
+
+.caouter .astrowidget-wrapper select {
+    margin-bottom: 10px;
+    border-radius: 6px;
+    width: 100%;
+    height: auto;
+    border: 1px solid #E5E5E5;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+    color: #333;
+    padding: 6px !important;
+    box-shadow: inset 0 0 0 1px #d2d2d2;
+    font-size: 13px;
+    line-height: 1.5;
+    font-family: 'Open Sans', sans-serif;
+    outline: none !important;
+}
+
+.astrowidget-wrapper .rh {
+    height: 20px;
+}
+
+.ca_clear {
+    clear: both;
+}
+
+.mt {
+    margin: 1% 0;
+}
+
+.pl {
+    padding-left: 2%;
+}
+
+.fleft {
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+.astrowidget-wrapper .form-footer {
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+    padding: 1% 2%;
+    border-top: solid 1px #FFFFFF;
+}
+
+.astrowidget-wrapper .form-footer p {
+    font-size: 1em;
+}
+
+.horo-footer {
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+    padding: 1% 2%;
+    border-top: solid 1px #efefef;
+}
+
+.horo-footer .txtleft {
+    float: left;
+    font-size: 1em;
+    color: #000000;
+    width: 64%;
+    padding-top: 5px;
+}
+
+.horobutton a {
+    color: #fff !important;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.astrowidget-wrapper .horobutton {
+    margin-top: 5px;
+    width: auto;
+    height: auto;
+    float: right;
+    background: #b32a2a;
+    border: 1px solid #333;
+    padding: 5px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 6px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.caouter .horobutton:hover {
+    background: #862121;
+}
+
+.caouter .horobutton a:hover {
+    color: #fff;
+}
+
+.rbuttons {
+    background: #b32a2a;
+    color: #fff;
+    padding: 6px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    margin: 0px 0px 0px 10px;
+}
+
+.astrowidget-wrapper span.cag {
+    float: left;
+    text-align: left;
+    padding: 8px 8px 0px 0px;
+    box-sizing: border-box;
+}
+
+.astrowidget-wrapper .ca_copyright {
+    text-align: right !important;
+    padding: 5px 0px 10px 0px;
+    width: 100%;
+    font-size: 11px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.astrowidget-wrapper .ca_copyright a {
+    font-size: 11px !important;
+     font-family: 'Open Sans', sans-serif;
+}
+
+.astrowidget-wrapper input[type=radio] {
+    opacity: 0;
+    position: absolute;
+    left: -100%;
+    display: inline;
+    width: 1px;
+    height: 1px;
+}
+
+.caouter .gendertab+label {
+    border: 1px solid #b32a2a;
+    background: #fff;
+    color: #333;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 13px;
+    border: 1px solid #333;
+    padding: 6px;
+    border-radius: 6px;
+    margin-right: 10px;
+    text-align: center;
+    width: 65px !important;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.astrowidget-wrapper .gendertab:checked+label {
+    background: #b32a2a;
+    color: #fff;
+    float: left;
+    border: 1px solid #333;
+    outline: none;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 13px;
+    text-align: center;
+    width: 65px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.astrowidget-wrapper .ampmtab+label {
+    background: #fff;
+    color: #333;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 13px;
+    border: 1px solid #333;
+    padding: 4px;
+    border-radius: 6px;
+    margin-left: 10px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.astrowidget-wrapper .ampmtab:checked+label {
+    background: #b32a2a;
+    color: #fff;
+    float: left;
+    border: 1px solid #333;
+    outline: none;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#solr_search_suggest {
+    font-size: 13px;
+    width: auto;
+    display: block;
+    background: #fff;
+    padding-right: 2px;
+    line-height: 30px;
+    border-radius: 2px;
+    border-top: 1px solid #d9d9d9;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#solr_search_suggest a {
+    color: #000;
+}
+
+.item {
+    width: 96%;
+    display: block;
+    border: 1px solid #fff;
+    text-decoration: none;
+    overflow: hidden;
+    font-size: 12px;
+    color: #999;
+    border-bottom: 1px solid #e6e6e6;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 0px 0px 0px 12px;
+}
+
+.item:hover {
+    background-color: #fafafa;
+}
+
+.fadeOutPart {
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.astrowidget-col {
+    width: 100%;
+    padding: 2% 2% 0% 2%;
+}
+
+.mob {
+    width: 65px;
+    display: block;
+    text-align: center;
+}
+
+.tab label {
+    padding: 2px 3px;
+}
+
+.astrowidget-wrapper .heading h2 {
+    padding: 0px 0px 0px 8px;
+    text-align: center;
+    width: 100%;
+    margin: 0px;
+    color: #FFFFFF;
+    line-height: 15px;
+    font-size: 0.9rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+span.cag {
+    color: #333;
+    font-size: 13px;
+    width: 100%;
+    padding-bottom: 10px;
+    padding-top: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.astrowidget-wrapper .w21 {
+    width: 25%;
+}
+
+.astrowidget-wrapper .w18 {
+    width: 20%;
+}
+
+.horo-footer .txtleft {
+    line-height: 15px;
+    padding: 3px;
+    width: 100% !important;
+    display: none;
+}
+
+.astrowidget-wrapper .ca_backbutton {
+    width: auto;
+    float: left !important;
+    margin-bottom: 8px;
+}
+
+.astrowidget-wrapper .ca_continuebutton {
+    width: auto;
+    float: right !important;
+    margin-top: 13px;
+    margin-bottom: 8px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+}
+
+.astrowidget-wrapper .heading.dsk {
+    padding: 10px;
+    box-sizing: border-box;
+    color: #fff;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+div#horo-widget-error {
+    display: none;
+}
+
+.error_cacity {
+    font-size: 11px;
+}
+
+.astrowidget-wrapper .horobutton a {
+    box-shadow: none !important;
+}
+
+.astrowidget-wrapper .ca_continuebutton a {
+    box-shadow: none !important;
+}
